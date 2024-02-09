@@ -3,7 +3,13 @@
 2: Hello, world!
 3: Hello, world!
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 7: Hello, world!
+=======
+4: Hello, world!
+5: Hello, world!
+6: Hello, world!
+>>>>>>> Stashed changes
 =======
 4: Hello, world!
 5: Hello, world!
